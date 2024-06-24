@@ -1,0 +1,10 @@
+# Ignore a pasta de configurações do VS Code
+.vscode/
+
+# Ignore diretórios de compilação ou binários
+bin/
+lib/
+
+# Ignore diretório de código-fonte (se não for necessário versionar)
+src/
+
